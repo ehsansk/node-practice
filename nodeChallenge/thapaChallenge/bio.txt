@@ -1,0 +1,1 @@
+this bio data inside bio file --This text is appended by bode fs function appendFileSyn
